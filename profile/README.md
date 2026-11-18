@@ -1,12 +1,10 @@
 # YenGear
 
-**Connect field equipment. Collect data. Control with confidence.**
+![YenGear: Connect. Collect. Control. Industrial IoT from field to cloud, featuring YenGear gateways and I/O modules.](https://raw.githubusercontent.com/yanjigame/.github/main/profile/assets/yengear-github-banner.webp)
 
 YenGear builds industrial IoT devices and solutions for connecting equipment, collecting field signals, and monitoring and controlling systems remotely.
 
-![YenGear industrial gateways and I/O modules](https://raw.githubusercontent.com/yanjigame/.github/main/profile/assets/industrial-iot-product-family.webp)
-
-[Website](https://www.yengear.com/) · [Documentation](https://docs.yengear.com/) · [Online Store](https://store.yengear.com/) · [Contact](https://www.yengear.com/feedback/)
+**[Website](https://www.yengear.com/)** &nbsp; | &nbsp; **[Documentation](https://docs.yengear.com/)** &nbsp; | &nbsp; **[Online Store](https://store.yengear.com/)** &nbsp; | &nbsp; **[Contact](https://www.yengear.com/feedback/)**
 
 ## Products and platform
 
